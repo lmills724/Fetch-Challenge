@@ -1,0 +1,20 @@
+Assignment #2
+
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+The tools and libraries that I used in this challenge include the csv, sys, json, datetime, and defaultdict.
+ - csv library allowed me to parse the the csv file easier and read in the data as dictionaries, which makes code easier to follow when indexing.
+ - sys library was helpful for taking in the command line arguments.
+ - json library was useful for formatting the output correctly.
+ - datetime library allowed me to read in the timestamps and find the oldest transactions in just two lines of code.
+ - defaultdict library was helpful in formatting the output correctly
+
+2. What are the advantages and disadvantages of your solution?
+    Advantages: My solution is organized and runs pretty quickly. I put lots of comments along my code and also divided my code into seperate functions, which
+    makes it easier to test/troubleshoot.
+    Disadvantages: My solution is likely longer than it could be, my redeemPoints function is pretty lengthy. Also, my code seems pretty fast, but looking back I'm sure
+    there are ways to optimize it further.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+    One of my favorite school projects recently was Probabilistic Language Identification. This project was for my artificial intelligence course and we used Bayes rule
+    to compute the probability that the observed evidence was written in English or Spanish. This project challenged me by testing my computational efficiency as well as my
+    knowledge of programming complex probability models. Overall, I found this project to be challenging but incredibly valuable and fun!
